@@ -45,12 +45,12 @@ section.filters > button:hover {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    width: 200px;
+    width: 187.5px;
     height: 16px;
     margin: 0 0 5px 0;
 }
 
-.amenities input{
+.filters input{
     margin-right: 10px;
 }
 
